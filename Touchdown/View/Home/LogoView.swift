@@ -23,7 +23,7 @@ struct LogoView: View {
                 .scaledToFit()
                 .frame(width: 30, height: 30, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
             
-            Text("Down".uppercased())
+            Text("DownE".uppercased())
                 .font(.title3)
                 .fontWeight(.black)
                 .foregroundColor(.black)
